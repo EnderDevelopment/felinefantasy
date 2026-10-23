@@ -1,0 +1,20 @@
+# Cat abilities configuration
+cooldowns:
+  ginger_cat:
+    yarn_ball: 30
+    laser_pointer: 45
+  sphynx_cat:
+    pounce: 20
+    super_hearing: 60
+  lion_cat:
+    invisibility: 90
+    roar: 120
+    adrenaline: 180
+  fat_cat:
+    garfield: 30
+    dinner: 45
+  cartoon_cat:
+    anvil: 60
+  calico_cat:
+    scratch: 20
+    hat: 45

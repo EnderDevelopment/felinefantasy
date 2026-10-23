@@ -1,0 +1,13 @@
+name: CatAbilities
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A Minecraft plugin with cat-themed abilities.
+api-version: "1.21"
+commands:
+  catsability:
+    description: Activate a cat ability.
+    usage: /catsability <1-2>
+  choosecat:
+    description: Open the cat selection GUI.
+    usage: /choosecat
